@@ -20,7 +20,7 @@ const CoolBackground = styled.div`
   width: 100%;
   color: white;
   display: flex;
-  align-items: center;
+  text-align: center;
   justify-content: center;
   background-image: linear-gradient(
     to left bottom,
